@@ -3,7 +3,9 @@
 <a href="https://github.com/thamyeS">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyeS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <br>
+  <div align="center>"
 <img  height="180em" width="400" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 </div>
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
