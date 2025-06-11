@@ -6,6 +6,11 @@
 </div>
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<br>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDuarte2007/count.svg" /></p>
 <!--
 **thamyeS/thamyeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
