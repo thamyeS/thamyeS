@@ -1,4 +1,4 @@
-## Olá👋
+## Olá
 
 # Thamye
 <div>
