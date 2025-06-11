@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/thamyeS">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyeS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img  height="200em" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+<img  height="200em" width="200" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <!--
 **thamyeS/thamyeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
