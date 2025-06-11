@@ -1,5 +1,5 @@
 # Thamye
-<div>
+<div align="center">
 <a href="https://github.com/thamyeS">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyeS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <br>
