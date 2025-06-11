@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDuarte2007/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/thamyeS/count.svg" /></p>
 <!--
 **thamyeS/thamyeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
